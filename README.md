@@ -15,7 +15,7 @@ The result yields KNN better than RF based on AUC-ROC.
   
 ![](https://i.imgur.com/AYbBEnN.png)
 
-## [Web Scrapping on JobStreet for Data Analyst jobs]()
+## [Web Scrapping on JobStreet for Data Analyst jobs](https://github.com/SaltyKNIGHT/portfolio-web-scrapping-jobstreet-data-analyst-only-id)
 
 You can use the [editor on GitHub](https://github.com/SaltyKNIGHT/portfolio-vincent-angkasa/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
