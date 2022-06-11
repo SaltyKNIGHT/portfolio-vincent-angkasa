@@ -1,6 +1,11 @@
 # Vincent Angkasa's Portfolio
 
-## KNN & Random Forest ROC-AOC Analysis for Breast Cancer
+## KNN & Random Forest AUC-ROC Analysis for Breast Cancer
+
+This project is about making comparison for KNN & RF for [this dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data).
+The goal of this project to successfully making use of supervised learning algorithm to diagnose breast cancer.
+Through the result make analysis which one is better for this case.
+The result yields KNN better than RF based on AUC-ROC.
 
 You can use the [editor on GitHub](https://github.com/SaltyKNIGHT/portfolio-vincent-angkasa/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
