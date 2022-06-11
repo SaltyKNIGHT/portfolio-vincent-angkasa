@@ -26,3 +26,7 @@ Below is the example of the result of the web scrapper.
 ![](https://i.imgur.com/fIDaq2y.png)
 -->
 ![](https://i.imgur.com/nrIZjGy.png)
+
+## [EDA for San Fransisco Salary]()
+
+![](https://i.imgur.com/iiwqCQU.png)
