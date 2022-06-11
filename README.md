@@ -17,6 +17,10 @@ The result yields KNN better than RF based on AUC-ROC.
 
 ## [Web Scrapping on JobStreet for Data Analyst jobs](https://github.com/SaltyKNIGHT/portfolio-web-scrapping-jobstreet-data-analyst-only-id)
 
+A fun project about web scrapping with BeautifulSoup. This short project is using JobStreet website for scrapping. The web scrapper searches for job with data analyst word.
+Below is the example of the result of the web scrapper.
+![](https://i.imgur.com/fIDaq2y.png)
+
 You can use the [editor on GitHub](https://github.com/SaltyKNIGHT/portfolio-vincent-angkasa/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
