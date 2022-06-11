@@ -11,7 +11,7 @@
 This project is about making comparison for KNN & RF for [this dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data).
 The goal of this project to successfully making use of supervised learning algorithm to diagnose breast cancer.
 Through the result make analysis which one is better for this case.
-The result yields KNN better than RF based on AUC-ROC.
+The result yields KNN better than RF based on AUC-ROC.<br>
 <!--
 ![](https://i.imgur.com/AYbBEnN.png)
 -->
@@ -20,7 +20,7 @@ The result yields KNN better than RF based on AUC-ROC.
 ## [Web Scrapping on JobStreet for Data Analyst jobs](https://github.com/SaltyKNIGHT/portfolio-web-scrapping-jobstreet-data-analyst-only-id)
 
 A fun simple yet satisfying project about web scrapping with BeautifulSoup.
-This short project is using JobStreet website for scrapping. The web scrapper searches for job with data analyst word.
+This short project is using JobStreet website for scrapping. The web scrapper searches for job with data analyst word.<br>
 Below is the example of the result of the web scrapper.
 <!--
 ![](https://i.imgur.com/fIDaq2y.png)
