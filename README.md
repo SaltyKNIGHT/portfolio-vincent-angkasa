@@ -15,6 +15,7 @@ The result yields KNN better than RF based on AUC-ROC.<br>
 <!--
 ![](https://i.imgur.com/AYbBEnN.png)
 -->
+
 ![](https://i.imgur.com/diaRsWp.png)
 
 ## [Web Scrapping on JobStreet for Data Analyst jobs](https://github.com/SaltyKNIGHT/portfolio-web-scrapping-jobstreet-data-analyst-only-id)
@@ -25,6 +26,7 @@ Below is the example of the result of the web scrapper.
 <!--
 ![](https://i.imgur.com/fIDaq2y.png)
 -->
+
 ![](https://i.imgur.com/nrIZjGy.png)
 
 ## [Data Cleaning & EDA for San Fransisco Salary](https://github.com/SaltyKNIGHT/portfolio-eda-python-san-fransisco-salaries)
