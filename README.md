@@ -27,7 +27,8 @@ Below is the example of the result of the web scrapper.
 -->
 ![](https://i.imgur.com/nrIZjGy.png)
 
-## [EDA for San Fransisco Salary]()
+## [Data Cleaning & EDA for San Fransisco Salary](https://github.com/SaltyKNIGHT/portfolio-eda-python-san-fransisco-salaries)
+The dataset is taken from [Kaggle](https://www.kaggle.com/datasets/kaggle/sf-salaries).
 <!--
 ![](https://i.imgur.com/iiwqCQU.png)
 -->
