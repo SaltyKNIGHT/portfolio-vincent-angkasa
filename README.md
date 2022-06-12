@@ -38,5 +38,7 @@ Example of things that can be taken from the dataset.
 4. Captain III (Police Department) is the second job that yields highest salary. The number one is General Manager-Metropolitan Transit Authority.
 
 ![](https://i.imgur.com/ugtSDSN.png)
-
+<!--
 ![](https://i.imgur.com/qSG2gIy.jpg)
+-->
+![](https://i.imgur.com/XbyyQjB.png)
