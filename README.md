@@ -35,13 +35,15 @@ The dataset is taken from [Kaggle](https://www.kaggle.com/datasets/kaggle/sf-sal
 ![](https://i.imgur.com/iiwqCQU.png)
 -->
 Example of things that can be taken from the dataset.
-1. Transit Operator is the one of the most job that people do. 6942 people is working as Transit Operator.
+1. Transit Operator is the one of the most job that people do.
 2. Some jobs can pay low base pay but gives high other pay.
 3. Some jobs too have overtime pay, which doesn't necessarily mean high salary.
 4. Captain III (Police Department) is the second job that yields highest salary. The number one is General Manager-Metropolitan Transit Authority.
-
-![](https://i.imgur.com/ugtSDSN.png)
 <!--
+![](https://i.imgur.com/ugtSDSN.png)
+
 ![](https://i.imgur.com/qSG2gIy.jpg)
--->
+
 ![](https://i.imgur.com/XbyyQjB.png)
+-->
+![](https://i.imgur.com/JmhXH2m.png)
