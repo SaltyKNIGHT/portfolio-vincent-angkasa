@@ -61,7 +61,7 @@ The source for this dataset is from [Kaggle](https://www.kaggle.com/c/titanic/da
 
 ![](https://i.imgur.com/jK15DPL.png)
 
-## [Web Scrapping on JobStreet for Data Analyst jobs](https://github.com/SaltyKNIGHT/portfolio-web-scrapping-jobstreet-data-analyst-only-id)
+## [Web Scrapping on JobStreet for Data Analyst Jobs](https://github.com/SaltyKNIGHT/portfolio-web-scrapping-jobstreet-data-analyst-only-id)
 
 A fun simple yet satisfying project about web scrapping with BeautifulSoup.
 This short project is using JobStreet website for scrapping. The web scrapper searches for job with data analyst word.<br>
