@@ -59,7 +59,9 @@ Example of things that can be understood from the dataset.
 ![](https://i.imgur.com/JmhXH2m.png)
 
 ## [Titanic Data Visualization Dashboard](https://public.tableau.com/views/titanic-try1/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-The source for this dataset is from [Kaggle](https://www.kaggle.com/c/titanic/data). A simple project to make data visualization with the help of Tableau. Where this dashboard will show simple information like the percentage of the survivors and other basic stuff.
+The source for this dataset is from [Kaggle](https://www.kaggle.com/c/titanic/data). A simple project to make data visualization with the help of Tableau. Where this dashboard will show simple information like the percentage of the survivors and other basic stuff. Example the data visualization.
+
+![](https://i.imgur.com/jK15DPL.png)
 
 ## [Web Scrapping on JobStreet for Data Analyst jobs](https://github.com/SaltyKNIGHT/portfolio-web-scrapping-jobstreet-data-analyst-only-id)
 
