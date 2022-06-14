@@ -28,8 +28,10 @@ Below is the example of the result of the web scrapper.
 -->
 
 ![](https://i.imgur.com/nrIZjGy.png)
-
+<!--
 ## [Data Cleaning & EDA for San Fransisco Salary](https://github.com/SaltyKNIGHT/portfolio-eda-python-san-fransisco-salaries)
+-->
+## [Data Cleaning & EDA for San Fransisco Salary](https://www.kaggle.com/code/saltonigiri/sf-salaries?scriptVersionId=98266087)
 The dataset is taken from [Kaggle](https://www.kaggle.com/datasets/kaggle/sf-salaries).
 <!--
 ![](https://i.imgur.com/iiwqCQU.png)
