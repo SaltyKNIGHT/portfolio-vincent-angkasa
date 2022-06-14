@@ -22,7 +22,7 @@ Below is the example of the result of the web scrapper.
 ## [Data Cleaning & EDA for San Fransisco Salary](https://www.kaggle.com/code/saltonigiri/sf-salaries?scriptVersionId=98266087)
 The dataset is taken from [Kaggle](https://www.kaggle.com/datasets/kaggle/sf-salaries).
 
-Example of things that can be taken from the dataset.
+Example of things that can be understood from the dataset.
 1. Transit Operator is the one of the most job that people do.
 2. Huge margin between Transit Operator and Special Nurse, but low margin between Special Nurse and Registered Nurse if compare with the former.
 3. Some jobs can pay low base pay but gives high other pay.
