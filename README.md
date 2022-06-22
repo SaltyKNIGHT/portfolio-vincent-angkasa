@@ -31,8 +31,6 @@ This dashboard is made with Google Data Studio. The source of the dataset is tak
 
 ## [Web Scrapping on JobStreet for Data Analyst Jobs](https://github.com/SaltyKNIGHT/portfolio-web-scrapping-jobstreet-data-analyst-only-id)
 
-A fun simple yet satisfying project about web scrapping with BeautifulSoup.
-This short project is using JobStreet website for scrapping. The web scrapper searches for job with data analyst word.<br>
-Below is the example of the result of the web scrapper.
+A fun simple yet satisfying project about web scrapping with BeautifulSoup. This short project is using JobStreet website for scrapping. The web scrapper searches for job with data analyst word. Below is the example of the result of the web scrapper.
 
 ![](https://i.imgur.com/nrIZjGy.png)
