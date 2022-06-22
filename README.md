@@ -20,7 +20,7 @@ The dataset is taken from [Kaggle](https://www.kaggle.com/datasets/kaggle/sf-sal
 ![](https://i.imgur.com/JmhXH2m.png)
 
 ## [Titanic Data Visualization Dashboard](https://public.tableau.com/views/titanic-try1/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-The source for this dataset is from [Kaggle](https://www.kaggle.com/c/titanic/data). A simple project to make data visualization with the help of Tableau. Where this dashboard will show simple information like the percentage of the survivors and other basic stuff. Example the data visualization.
+The source for this dataset is from [Kaggle](https://www.kaggle.com/c/titanic/data). A simple project to make data visualization with the help of Tableau. Where this dashboard will show simple information like the percentage of the survivors and other basic stuff. Example the data visualization. The orange colour shows the people that survived the ordeal. The blue colour is for the people that didn't survive the ordeal.
 
 ![](https://i.imgur.com/jK15DPL.png)
 
