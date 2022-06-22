@@ -24,6 +24,11 @@ The source for this dataset is from [Kaggle](https://www.kaggle.com/c/titanic/da
 
 ![](https://i.imgur.com/jK15DPL.png)
 
+## [Recruitment Dashboard](https://datastudio.google.com/reporting/06535008-af2c-4043-9aff-cdbd3227b336)
+This dashboard is made with Google Data Studio. The source of the dataset is taken from [YouTube](https://www.youtube.com/watch?v=1qGsjmmHiu8). The dashboard is also made through the instruction of following the YouTube. This is the example of the result of the data visualization. It shows which part of the world and how many people that have applied the job application.
+
+![](https://i.imgur.com/bQbPcGZ.png)
+
 ## [Web Scrapping on JobStreet for Data Analyst Jobs](https://github.com/SaltyKNIGHT/portfolio-web-scrapping-jobstreet-data-analyst-only-id)
 
 A fun simple yet satisfying project about web scrapping with BeautifulSoup.
